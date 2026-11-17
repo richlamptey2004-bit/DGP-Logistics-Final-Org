@@ -1,0 +1,6 @@
+{
+  "name": "DGP LOGISTICS",
+  "description": "China to Ghana cargo freight, repacking, air and sea shipping, supplier payment assistance, and door-to-door delivery with WhatsApp enquiry handover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
